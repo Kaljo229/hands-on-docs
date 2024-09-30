@@ -96,6 +96,8 @@ class HDMolecule:
 
 
 def analyze_N2(distance):
+    """Hello! Hello! Hello!
+    """
 
     N2 = HDMolecule("N", distance)
 
